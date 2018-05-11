@@ -1,0 +1,163 @@
+{
+	"vehicles": [{
+			"id": 1,
+			"type": 2,
+			"zipcode": 64160
+		}
+
+
+	],
+	"requests": [{
+			"id": 1,
+			"vehicle_type": 2,
+			"zipcode": 64153,
+			"vehicle_id": null,
+			"distance": 0
+		}
+
+	],
+	"distances": [{
+			"zipcode1": 64149,
+			"zipcode2": 64150,
+			"distance": 4
+		},
+		{
+			"zipcode1": 64150,
+			"zipcode2": 64151,
+			"distance": 2
+		},
+		{
+			"zipcode1": 64151,
+			"zipcode2": 64152,
+			"distance": 3
+		},
+		{
+			"zipcode1": 64150,
+			"zipcode2": 64153,
+			"distance": 2
+		},
+		{
+			"zipcode1": 64152,
+			"zipcode2": 64153,
+			"distance": 4
+		},
+		{
+			"zipcode1": 64150,
+			"zipcode2": 64154,
+			"distance": 7
+		},
+		{
+			"zipcode1": 64154,
+			"zipcode2": 64155,
+			"distance": 6
+		},
+		{
+			"zipcode1": 64151,
+			"zipcode2": 64154,
+			"distance": 6
+		},
+		{
+			"zipcode1": 64152,
+			"zipcode2": 64156,
+			"distance": 4
+		},
+		{
+			"zipcode1": 64153,
+			"zipcode2": 64156,
+			"distance": 4
+		},
+
+		{
+			"zipcode1": 64151,
+			"zipcode2": 64157,
+			"distance": 5
+		},
+
+		{
+			"zipcode1": 64156,
+			"zipcode2": 64157,
+			"distance": 6
+		},
+		{
+			"zipcode1": 64156,
+			"zipcode2": 64158,
+			"distance": 5
+		},
+		{
+			"zipcode1": 64158,
+			"zipcode2": 64159,
+			"distance": 6
+		},
+
+		{
+			"zipcode1": 64159,
+			"zipcode2": 64153,
+			"distance": 5
+		},
+		{
+			"zipcode1": 64159,
+			"zipcode2": 64153,
+			"distance": 5
+		},
+		{
+			"zipcode1": 64158,
+			"zipcode2": 64160,
+			"distance": 5
+		},
+
+		{
+			"zipcode1": 64160,
+			"zipcode2": 64161,
+			"distance": 4
+		},
+		{
+			"zipcode1": 64161,
+			"zipcode2": 64162,
+			"distance": 7
+		},
+
+		{
+			"zipcode1": 64162,
+			"zipcode2": 64163,
+			"distance": 3
+		},
+		{
+			"zipcode1": 64163,
+			"zipcode2": 64164,
+			"distance": 6
+		},
+		{
+			"zipcode1": 64164,
+			"zipcode2": 64165,
+			"distance": 8
+		},
+		{
+			"zipcode1": 64165,
+			"zipcode2": 64162,
+			"distance": 7
+		},
+		{
+			"zipcode1": 64164,
+			"zipcode2": 64166,
+			"distance": 4
+		},
+		{
+			"zipcode1": 64166,
+			"zipcode2": 64167,
+			"distance": 9
+		},
+
+
+		{
+			"zipcode1": 64160,
+			"zipcode2": 64157,
+			"distance": 2
+		},
+		{
+			"zipcode1": 64167,
+			"zipcode2": 64157,
+			"distance": 11
+		}
+
+	]
+}
